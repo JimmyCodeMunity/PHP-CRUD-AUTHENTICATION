@@ -1,0 +1,8 @@
+<?php
+
+$conn = mysqli_connect('localhost','root','','codeschool');
+
+?>
+//you can delete this statements
+//password is always empty unless your local machine is set with
+//codeschool is the database name
